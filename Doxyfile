@@ -1,0 +1,13 @@
+# Doxyfile 1.7.6.1
+
+
+INPUT                  += ../euler_001_multiples_of_3_and_5
+INPUT                  += ../euler_002_even_fibonacci_numbers
+INPUT                  += ../euler_003_largest_prime_factor
+INPUT                  += ../euler_004_largest_palindrome_product
+INPUT                  += ../euler_005_smallest_multiple
+INPUT                  += ../euler_006_sum_square_difference
+INPUT                  += ../euler_007_10001st_prime
+
+
+@INCLUDE = Doxyfile.common
