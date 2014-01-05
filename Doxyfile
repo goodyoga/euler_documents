@@ -8,6 +8,7 @@ INPUT                  += ../euler_004_largest_palindrome_product
 INPUT                  += ../euler_005_smallest_multiple
 INPUT                  += ../euler_006_sum_square_difference
 INPUT                  += ../euler_007_10001st_prime
+INPUT                  += ../euler_008_largest_product_in_a_series
 
 
 @INCLUDE = Doxyfile.common
