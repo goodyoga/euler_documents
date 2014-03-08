@@ -1,4 +1,4 @@
-#
+# Copyright 2013,2014 goodyoga.  All rights Reserved.
 
 include Doxyfile.INPUT
 
